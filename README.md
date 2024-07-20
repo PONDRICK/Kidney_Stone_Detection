@@ -21,9 +21,5 @@
 
 # Result Image
 ![image](https://github.com/user-attachments/assets/6f0ee1dc-284e-4b3e-a128-d136cfea0ae6)
-
-
-
-
-
-
+#Credit Data Set
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
