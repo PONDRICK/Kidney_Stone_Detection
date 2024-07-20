@@ -1,7 +1,7 @@
 # Original Image
 ![image](https://github.com/user-attachments/assets/2cc47e52-922b-400b-895a-2f71da3a985e)
 
-#GrayScale Image
+# GrayScale Image
 ![image](https://github.com/user-attachments/assets/6c0bb131-c45d-4845-8a16-6be2098c62cb)
 
 # Median Filtered Image
