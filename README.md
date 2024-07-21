@@ -37,6 +37,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6f0ee1dc-284e-4b3e-a128-d136cfea0ae6" alt="Result Image">
 </p>
+
 ## Credit Data Set
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 
