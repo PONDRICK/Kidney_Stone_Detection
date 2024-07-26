@@ -42,3 +42,11 @@
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 
 Thank you for the data used for educational purposes.
+
+## Contributors
+
+- [PONDRICK](https://github.com/PONDRICK)
+- [gypyz](https://github.com/gypyz)
+- [Baziliz](https://github.com/Baziliz)
+- [LRxMinari](https://github.com/LRxMinari)
+- [DaCapoVII](https://github.com/DaCapoVII)
